@@ -1,6 +1,6 @@
 ## Description
 
-Nestjs test backend application with RESTapi, CRED, and E2E testing.
+Nestjs test backend application utilizing RESTapi, CRUD, and E2E testing.
 Setup to run locally with Docker.
 
 ## Installation
